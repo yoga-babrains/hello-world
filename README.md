@@ -2,4 +2,3 @@
 add simple java gradle project files
 
 
-
